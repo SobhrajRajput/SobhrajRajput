@@ -1,29 +1,27 @@
-# <h1 align="center">Hi 👋, I'm Sobhraj Rajput</h1>
+<h1 align="center">Hi, I'm Sobhraj Rajput</h1>
 
-### <h3 align="center">ASP.NET Core Backend Developer | .NET Developer | Software Engineer</h3>
+<h3 align="center">ASP.NET Core Backend Developer | .NET Developer | Software Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SobhrajRajput&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=ASP.NET+Core+Developer;Backend+Engineer;REST+API+Developer;C%23+Developer;Software+Engineer">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=ASP.NET+Core+Developer;.NET+Backend+Developer;REST+API+Developer;C%23+Programmer;Software+Engineer;Open+To+Work" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Passionate **ASP.NET Core Backend Developer** with strong backend development skills
-* 🎓 Bachelor of Science in **Computer Science**
-* 🔭 Experienced in building scalable backend systems using **ASP.NET Core Web API**
+* 💻 Passionate **ASP.NET Core Backend Developer** with strong backend development expertise
+* 🎓 Graduate in **Bachelor of Science in Computer Science**
+* 🔭 Experienced in developing scalable backend applications using **ASP.NET Core Web API**
 * ⚡ Strong understanding of **REST APIs, JWT Authentication, Entity Framework Core**
-* 🗄 Experienced with **SQL Server, MySQL, MongoDB**
-* 📚 Strong knowledge of **Object-Oriented Programming, SOLID Principles, Dependency Injection**
-* 🌱 Currently improving skills in **System Design, Cloud Deployment, Microservices**
-* 👯 Open to collaboration on **Backend & Full Stack Projects**
+* 🗄 Hands-on experience with **SQL Server, MySQL, MongoDB**
+* 📚 Strong foundation in **OOP, SOLID Principles, Dependency Injection**
+* 🌱 Currently learning **Microservices Architecture, Cloud Deployment, System Design**
+* 👯 Open to collaboration and backend development opportunities
 
 ---
 
@@ -39,15 +37,15 @@
 
 ## 🛠 Technical Skills
 
-### Languages
+### Programming Languages
 
 C# • JavaScript • Java • C/C++
 
 ### Backend Development
 
-ASP.NET Core • Web API • Entity Framework Core • LINQ • RESTful APIs
+ASP.NET Core • ASP.NET Core Web API • Entity Framework Core • LINQ • REST APIs
 
-### Frontend
+### Frontend Development
 
 React.js • HTML • CSS • Bootstrap
 
@@ -55,27 +53,27 @@ React.js • HTML • CSS • Bootstrap
 
 SQL Server • MySQL • MongoDB
 
-### Tools
+### Development Tools
 
 Git • GitHub • Postman • Visual Studio
 
-### Concepts
+### Core Concepts
 
 JWT Authentication • OOP • SOLID Principles • CRUD Operations • Dependency Injection
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 ### Freelancer – Software Developer
 
 **Fiverr | Remote**
 📅 2021 – Present
 
-* Developed custom software solutions using **C#, ASP.NET Core, SQL Databases**
-* Built **RESTful APIs** for business workflows and CRUD operations
-* Implemented authentication and database integration
-* Improved backend performance and code maintainability
+* Developed custom backend software solutions using **C#, ASP.NET Core, SQL Databases**
+* Built scalable **RESTful APIs** for business workflows and CRUD operations
+* Implemented secure authentication and authorization systems
+* Improved backend performance and optimized code maintainability
 
 ---
 
@@ -85,8 +83,8 @@ JWT Authentication • OOP • SOLID Principles • CRUD Operations • Dependen
 📅 08/2025 – 01/2026
 
 * Assisted instructors in **Digital Logic Design** and **Theory of Automata**
-* Developed and graded assignments and quizzes
-* Conducted student support sessions for algorithms and logic concepts
+* Developed and graded technical assignments and quizzes
+* Conducted study sessions helping students understand algorithms and logic concepts
 
 ---
 
@@ -96,30 +94,30 @@ JWT Authentication • OOP • SOLID Principles • CRUD Operations • Dependen
 
 **Tech Stack:** ASP.NET Core • SQL Server • Entity Framework Core
 
-* Developed REST APIs for employee and department management
-* Implemented CRUD operations and validation
-* Integrated Swagger for API documentation
+* Developed backend APIs for employee and department management
+* Implemented CRUD operations with data validation
+* Integrated Swagger for API documentation and testing
 
 ---
 
 ### 🔹 Task Management API
 
-**Tech Stack:** ASP.NET Core Web API • SQL Server • Entity Framework Core • JWT
+**Tech Stack:** ASP.NET Core Web API • SQL Server • Entity Framework Core • JWT Authentication
 
-* Built secure task management backend using JWT Authentication
-* Implemented CRUD operations for tasks
-* Added filtering by Pending / Completed status
-* Developed update, delete, and completion tracking features
+* Developed secure task management backend using JWT Authentication
+* Implemented create, update, delete, and task completion features
+* Added task filtering by status (Pending / Completed)
+* Built scalable REST APIs following clean architecture principles
 
 ---
 
 ### 🔹 Event Management System
 
-**Tech Stack:** ASP.NET Core Web API • MySQL • Entity Framework
+**Tech Stack:** ASP.NET Core Web API • MySQL • Entity Framework Core
 
-* Developed backend APIs for event creation and registration
-* Implemented authentication and access control
-* Designed optimized relational database structure
+* Developed APIs for event creation and user registration
+* Implemented authentication and role-based access control
+* Designed optimized relational database structure for event management
 
 ---
 
@@ -128,11 +126,37 @@ JWT Authentication • OOP • SOLID Principles • CRUD Operations • Dependen
 **Tech Stack:** ASP.NET Core Web API • Entity Framework Core • MySQL • JWT • OpenAI API
 
 * Designed scalable backend services using RESTful architecture
-* Implemented secure authentication using JWT with role-based access control
-* Integrated AI chatbot using OpenAI API for student query automation
-* Designed relational database schemas and optimized queries
-* Improved API performance for scalability and efficient data handling
-* Worked across full SDLC including development, testing, deployment
+* Implemented secure authentication and authorization using JWT
+* Integrated AI chatbot functionality using OpenAI API
+* Designed optimized relational database schema and queries
+* Improved performance through efficient API design and optimized data handling
+* Collaborated across development, testing, deployment, and system design phases
+
+---
+
+## ⚙️ Technologies I Work With
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50"/>
+
+</p>
 
 ---
 
@@ -158,21 +182,29 @@ JWT Authentication • OOP • SOLID Principles • CRUD Operations • Dependen
 
 📧 Email: **[sobhrajrathore@gmail.com](mailto:sobhrajrathore@gmail.com)**
 
-💼 LinkedIn: **linkedin.com/in/sobhraj-rajput-39b670255/**
+💼 LinkedIn: **https://linkedin.com/in/sobhraj-rajput-39b670255/**
+
+💻 GitHub: **https://github.com/SobhrajRajput**
 
 📍 Location: **Karachi, Pakistan**
 
 ---
 
-## ⚡ Current Focus
+## 🎯 Current Focus
 
 * Advanced ASP.NET Core Development
-* Clean Architecture
 * Microservices Architecture
-* Cloud Deployment
+* Clean Architecture Implementation
+* Cloud Deployment & DevOps Fundamentals
 * Backend Performance Optimization
-* System Design
+* Scalable API Development
 
 ---
 
-### “Building scalable backend systems with clean architecture and efficient APIs.”
+## ⚡ Fun Fact
+
+I enjoy building scalable backend systems and solving real-world software engineering problems through clean and efficient code.
+
+---
+
+<h3 align="center">Building scalable backend systems with clean architecture and efficient APIs 🚀</h3>
