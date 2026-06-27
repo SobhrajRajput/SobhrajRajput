@@ -90,7 +90,7 @@ JWT Authentication • OOP • SOLID Principles • CRUD Operations • Dependen
 
 ## 📂 Featured Projects
 
-### 🔹 Employee Management System
+### 🔹 EmployeeManagementSystem
 
 **Tech Stack:** ASP.NET Core • SQL Server • Entity Framework Core
 
