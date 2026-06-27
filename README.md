@@ -35,59 +35,6 @@
 
 ---
 
-## 🛠 Technical Skills
-
-### Programming Languages
-
-C# • JavaScript • Java • C/C++
-
-### Backend Development
-
-ASP.NET Core • ASP.NET Core Web API • Entity Framework Core • LINQ • REST APIs
-
-### Frontend Development
-
-React.js • HTML • CSS • Bootstrap
-
-### Databases
-
-SQL Server • MySQL • MongoDB
-
-### Development Tools
-
-Git • GitHub • Postman • Visual Studio
-
-### Core Concepts
-
-JWT Authentication • OOP • SOLID Principles • CRUD Operations • Dependency Injection
-
----
-
-## 💼 Professional Experience
-
-### Freelancer – Software Developer
-
-**Fiverr | Remote**
-📅 2021 – Present
-
-* Developed custom backend software solutions using **C#, ASP.NET Core, SQL Databases**
-* Built scalable **RESTful APIs** for business workflows and CRUD operations
-* Implemented secure authentication and authorization systems
-* Improved backend performance and optimized code maintainability
-
----
-
-### Teaching Assistant
-
-**FAST University Karachi**
-📅 08/2025 – 01/2026
-
-* Assisted instructors in **Digital Logic Design** and **Theory of Automata**
-* Developed and graded technical assignments and quizzes
-* Conducted study sessions helping students understand algorithms and logic concepts
-
----
-
 ## 📂 Featured Projects
 
 ### 🔹 Employee Management System
