@@ -35,52 +35,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-### 🔹 Employee Management System
-
-**Tech Stack:** ASP.NET Core • SQL Server • Entity Framework Core
-
-* Developed backend APIs for employee and department management
-* Implemented CRUD operations with data validation
-* Integrated Swagger for API documentation and testing
-
----
-
-### 🔹 Task Management API
-
-**Tech Stack:** ASP.NET Core Web API • SQL Server • Entity Framework Core • JWT Authentication
-
-* Developed secure task management backend using JWT Authentication
-* Implemented create, update, delete, and task completion features
-* Added task filtering by status (Pending / Completed)
-* Built scalable REST APIs following clean architecture principles
-
----
-
-### 🔹 Event Management System
-
-**Tech Stack:** ASP.NET Core Web API • MySQL • Entity Framework Core
-
-* Developed APIs for event creation and user registration
-* Implemented authentication and role-based access control
-* Designed optimized relational database structure for event management
-
----
-
-### 🔹 Edu Mentor – AI Powered University Assistance Platform (Final Year Project)
-
-**Tech Stack:** ASP.NET Core Web API • Entity Framework Core • MySQL • JWT • OpenAI API
-
-* Designed scalable backend services using RESTful architecture
-* Implemented secure authentication and authorization using JWT
-* Integrated AI chatbot functionality using OpenAI API
-* Designed optimized relational database schema and queries
-* Improved performance through efficient API design and optimized data handling
-* Collaborated across development, testing, deployment, and system design phases
-
----
-
 ## ⚙️ Technologies I Work With
 
 <p align="left">
